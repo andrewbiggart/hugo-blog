@@ -91,7 +91,7 @@ theme = ["hugo-paper-edited", "hugo-paper"]
 There is a theme inheritance algorithm that looks at the array above and create a new theme with theme on the left being loaded first and being the most important and merging the themes on the right into it. Hence, I copied the files I wanted to amend into a new folder called `hugo-paper-amended` and made all the changes to the theme there. The rest of the theme is then loaded from `hugo-paper` theme.
 
 ### Styles didn't load
-You might get an error in the console saying that website wasn't served though secure `https`. That might be to a possible wrong `baseURL` value set in `config.toml`. If deployed already, Netlify automatically supports https, so add your URL to the config and that will solve the problem!
+You might get an error in the console saying that website wasn't served though secure `https`. That might be to a possible wrong `baseURL` value set in `config.toml`. If deployed already, Netlify supports https, so add your URL to the config and that will solve the problem!
 
 ## further reading
 
