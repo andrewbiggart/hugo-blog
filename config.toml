@@ -2,4 +2,4 @@ baseURL = "https://quizzical-keller-f4c205.netlify.com/"
 languageCode = "en-us"
 title = "Klaudia Rozgonyiova 🔥"
 
-theme=["hugo-paper", "hugo-paper-amended"]
+theme=["hugo-paper-amended", "hugo-paper"]
