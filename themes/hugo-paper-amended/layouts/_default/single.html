@@ -5,7 +5,14 @@
     <p class="post-meta">
       {{- if or .Params.author .Site.Params.author -}}
       {{ .Params.author | default .Site.Params.author }} · {{ end }}
-      {{- .Date.Format "2006.1.2" -}}
+      {{ if .Params.date }}
+      {{- .Date.Format "2.1.2006 " -}} · 
+      <a 
+      class="twitter-share-button"
+      target="_blank"
+      href="https://twitter.com/intent/tweet?text={{ .Title }}%20{{ .Permalink }}%20by%20@EffingKay"
+      > tweet </a> 🐦
+      {{ end }}
     </p>
   </header>
   <div class="post-content">{{ .Content }}</div>
