@@ -1,5 +1,8 @@
 baseURL = "https://rozgonyiova.com/"
 languageCode = "en-us"
 title = "Klaudia Rozgonyiova 🔥"
+description = "Software developer sharing things I learned."
 
 theme=["hugo-paper-amended", "hugo-paper"]
+
+googleAnalytics = "UA-124172234-1"

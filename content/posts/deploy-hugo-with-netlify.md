@@ -8,6 +8,9 @@ tags: [
     "tutorials",
     "webdev"
 ]
+
+summary: "Learn how to create and host Hugo blog"
+image: "https://res.cloudinary.com/practicaldev/image/fetch/s--O_GKRm9D--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/3C0v3z29093y/Image%25202018-03-29%2520at%25202.52.34%2520PM.png"
 ---
 Hugo is a fantastic static site generator and if you're looking to move away from Jekyll, Hugo is an excelent choice. I'd say that the initial setup is much easier than Jekyll's and I'm nicely surprised how quick I was able to put this site together plus Hugo's blazing fast thanks to the fact it's built in in Go.
 

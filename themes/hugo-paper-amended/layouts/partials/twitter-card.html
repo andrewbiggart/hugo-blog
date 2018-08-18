@@ -1,0 +1,11 @@
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@EffingKay">
+<meta name="twitter:creator" content="@EffingKay">
+{{ if .IsPage }}
+<meta name="twitter:description" content="{{ .Params.summary }}" />
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:image" content="{{ .Params.image }}" /> 
+{{ else }}
+<meta name="twitter:title" content="{{ .Site.Title }}" />
+<meta name="twitter:description" content="{{ .Description }}" /> 
+{{ end }}

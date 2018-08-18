@@ -5,6 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {{ partial "twitter-card" . }}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124172234-1"></script>
   <script>
@@ -51,7 +52,7 @@
     {{ else }}
     <p class="title"><a href="{{.Site.BaseURL}}">{{ .Site.Title }}</a></p>
     {{ end }}
-    <button class="menu-toggle" type="button"></button>
+    <button class="menu-toggle" type="button" aria-label="menu"></button>
     <nav class="menu">
       <ul>
         {{ $currentPage := . }}
