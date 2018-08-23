@@ -205,5 +205,5 @@ If you enjoyed the article, don't hesitate to share it on twitter!
 class="twitter-share-button"
 data-size="large"
 target="_blank"
-href="https://twitter.com/intent/tweet?text=4%20practices%20for%20better%20code%20https://rozgonyiova.com/posts/cleaner-code/%20by%20@EffingKay"
+href="https://twitter.com/intent/tweet?text=4%20practices%20for%20better%20code%20by%20@EffingKay"
 > tweet </a> <br>
