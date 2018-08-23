@@ -1,5 +1,5 @@
 ---
-date: 2018-08-18T10:42:10+01:00
+date: 2018-08-23T10:42:10+01:00
 draft: false
 title: "4 practices for better code"
 author: "Klaudia Rozgonyiova"
@@ -12,7 +12,6 @@ tags: [
 summary: "Simple changes with huge impact"
 image: "https://ak6.picdn.net/shutterstock/videos/9440576/thumb/1.jpg"
 ---
-<!-- {{< tweet 852176080513400832 >}} -->
 > "Clean code always looks like it was written by someone who cares."
 
 I remember my first job as web developer. It was shortly after I gratuated from bootcamp and  I found myself in a role where every developer was on his own and the only reviews I've gotten were from designers who checked whether it matched the designs and behaved as expected. 
