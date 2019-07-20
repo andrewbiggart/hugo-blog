@@ -12,11 +12,7 @@ image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.
 
 Just before I call website done and abandon it, I like to go through these to make sure everything is in place.
 
-## Other checklists
-
-[https://codeburst.io/the-front-end-checklist-8b2292fdda44](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
-
-[https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+This my personal list that I put together over time, I know there's lots of different checklists out there already but I made my own with the resources I found most useful and the ones I like to use. I included other similar checklists at the bottom of the page, just for completion.
 
 ## HTML and CSS
 
@@ -67,6 +63,11 @@ Just before I call website done and abandon it, I like to go through these to ma
 <link rel="preload" href="image.png">`
 ```
 
+## Other checklists
+
+[https://codeburst.io/the-front-end-checklist-8b2292fdda44](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
+
+[https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 ## Last words
 If you have any other tips and resources that you'd like to share, plese do. You can always ping me on twitter (I rarely check it) or don't hesitate to open a PR with newly added links, I welcome any additions :) You can find this article on github [here](https://github.com/EffingKay/hugo-blog/blob/master/content/posts/website-checklist.md).
