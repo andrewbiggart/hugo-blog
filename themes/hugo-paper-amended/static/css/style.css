@@ -488,3 +488,9 @@ pre, code {
     display: none;
   }
 }
+/* Twitter embed
+======================================================================= */
+.twitter-tweet .twitter-tweet-rendered {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
