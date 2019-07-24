@@ -67,7 +67,6 @@ This my personal list that I put together over time, I know there's lots of diff
 
 [https://codeburst.io/the-front-end-checklist-8b2292fdda44](https://codeburst.io/the-front-end-checklist-8b2292fdda44)
 
-[https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 ## Last words
 If you have any other tips and resources that you'd like to share, plese do. You can always ping me on twitter (I rarely check it) or don't hesitate to open a PR with newly added links, I welcome any additions :) You can find this article on github [here](https://github.com/EffingKay/hugo-blog/blob/master/content/posts/website-checklist.md).
