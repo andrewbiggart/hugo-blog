@@ -42,6 +42,12 @@ This my personal list that I put together over time, I know there's lots of diff
 
 - [https://github.com/imagemin/imagemin](https://github.com/imagemin/imagemin)
 - [https://tinyjpg.com/](https://tinyjpg.com/)
+– [https://kraken.io/web-interface] (https://kraken.io/web-interface)
+
+## SVG optimisation
+
+– [https://jakearchibald.github.io/svgomg/] (https://jakearchibald.github.io/svgomg/)
+– [https://www.svgminify.com/] (https://www.svgminify.com/)
 
 ## Performance
 
